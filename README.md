@@ -6,5 +6,12 @@ Ali, H.; Niazi, I.K.; White, D.; Akhter, M.N.; Madanian, S. Comparison of Machin
 
 
 
+Make sure to download the data from: https://physionet.org/content/big-ideas-glycemic-wearable/1.1.1/
+
+Use this pipeline to create the features: https://github.com/haider213/Glucose/tree/main
+
+
+
+
 
 
